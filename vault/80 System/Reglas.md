@@ -1,0 +1,4 @@
+- Todo proyecto comienza con una nota.
+- Un Proyecto tiene máximo 3 próximos pasos.
+- El proyecto es la fuente de la verdad de las tareas.
+	- Dashboard y Daily son vistas.
