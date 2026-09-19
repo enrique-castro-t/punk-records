@@ -1,0 +1,27 @@
+# =========================
+# Obsidian - archivos locales
+# =========================
+
+# Estado de la interfaz y ventanas
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache y archivos temporales
+.obsidian/cache/
+.obsidian/*.bak
+
+# =========================
+# Sistema operativo
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos temporales
+# =========================
+
+*.tmp
+*.temp
+*.swp
+*~
