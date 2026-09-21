@@ -25,3 +25,10 @@ Thumbs.db
 *.temp
 *.swp
 *~
+
+# =========================
+# Obsidian - contenido sensible
+# =========================
+
+Finanzas/*
+finanzas/*
