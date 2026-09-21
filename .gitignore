@@ -5,10 +5,12 @@
 # Estado de la interfaz y ventanas
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
 
 # Cache y archivos temporales
-.obsidian/cache/
-.obsidian/*.bak
+vault/.obsidian/cache/
+vault/.obsidian/*.bak
 
 # =========================
 # Sistema operativo
